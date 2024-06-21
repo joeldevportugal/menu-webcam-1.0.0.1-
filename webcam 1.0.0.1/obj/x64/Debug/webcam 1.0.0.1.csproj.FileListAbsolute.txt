@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\webcam 1.0.0.1.exe.config
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\webcam 1.0.0.1.exe
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\webcam 1.0.0.1.pdb
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.0.0.1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam_1._0._0._1.FreWebcam1.resources
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam_1._0._0._1.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.0.0.1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.0.0.1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.0.0.1.exe
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.0.0.1.pdb
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.dll
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.Video.dll
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.xml
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.Video.xml
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\HP\Desktop\C#\Webcam\webcam 1.0.0.1\webcam 1.0.0.1\obj\x64\Debug\webcam 1.7CDCA85D.Up2Date
